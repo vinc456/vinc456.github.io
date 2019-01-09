@@ -3,8 +3,8 @@ title: This is a test
 layout: post
 ---
 
-### January 8, 2019
-
+### January 9, 2019
+I've been playing around with Jekyll for two days and it is unfortunate that I have to install some Ruby packages like Bundler if I wish to [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-2-install-jekyll-using-bundler) This could all be done within a VM but I also find the workflow and Jekyll itself to be rather cumbersome. So for now I am forced to test changes by pushing directly to production, sometimes without of even previewing my changes. In 2019 there must be some better alternative.
 
 ### January 7, 2019
 Hello world, today a blog is (re)born! Incidentally GitHub has announced unlimited private repositories for free users so that might have something to do with it! See [Reddit](https://www.reddit.com/r/programming/comments/adjw6g/github_now_gives_free_users_unlimited_private/) and [HN](https://news.ycombinator.com/item?id=18847043). I don't plan to blog so much as dump random snippets and notes on things I've read. Previous incarnations of my website appeared in the form of a [Hatta Wiki](http://test.hatta-wiki.org/) but I suppose the collaborative nature of Github suits this purpose well. Markdown is still supported so the [basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links) will be familiar.
