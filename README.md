@@ -3,6 +3,22 @@ title: This is a test
 layout: post
 ---
 
+### January 11, 2019
+
+Wanted to share: [Most of What We Read on the Internet is Written by Insane People (reddit.com)
+](https://news.ycombinator.com/item?id=18881827)
+
+The key takeaway for me was:
+> If you consume any content on the Internet, you're mostly consuming content created by people who for some reason spend most of their time and energy creating content on the Internet. And those people clearly differ from the general population in important ways.
+
+The post is worth a read and there are many interesting comments.  
+> When Rome's military went from citizen soldiers to full time specialist professionals, the misalignment of incentives between the specialists and the citizens was the subtle, long term root of many problems. 
+I think this is the case with programmes as a profession, as hacker culture is diluted by more mainstream commercial interests. The easy money in ad-tech has attracted brogrammers as our standards and expectations for privacy and security seem to decrease with each passing year.
+
+> This is why I constantly work to become a better storyteller, both for personal and professional reasons. You must promulgate the narrative surrounding yourself and your work or someone else will.
+
+I prefer to remain annonymous and keep private as much as possible. This unfortunately goes against the zeitgeist in an time where it is popular to [write essays](https://www.linkedin.com/pulse/leaving-microsoft-paul-richardson/) to announce a departure from a job, share what you ate for lunch on Instagram/Facebook/Github and even personal blogs to some extent, etc. Unfortunately humans absolutely require a narrative surrounding anything with which they consider themselves associated with. It’s vastly superior to that being one provided by you versus one invented for use by those who know you. So here I am, enjoy the story.
+
 ### January 9, 2019
 I've been playing around with Jekyll for two days and it is unfortunate that I have to install some Ruby packages like Bundler if I wish to [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-2-install-jekyll-using-bundler) This could all be done within a VM but I also find the workflow and Jekyll itself to be rather cumbersome. So for now I am forced to test changes by pushing directly to production, sometimes without of even previewing my changes. In 2019 there must be some better alternative.
 
