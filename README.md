@@ -1,6 +1,10 @@
+One day, you will be dead. Each year that passes after your death, fewer and fewer people will remember who you were, what you did or what your face looked like. Eventually, you'll be completely forgotten. Who cares if that side project you put out sucked or not. Might as well put it out there and see what people think. There's a good chance too that the project won't even be remembered even by the time you die.
+
+The best way to get experience is to do things, so given that no one is going to remember, might as well try to do it. Your successes won't be remembered along with your failures. 
+
 ### January 11, 2019
 
-Wanted to share: [Most of What We Read on the Internet is Written by Insane People (reddit.com)
+Wanted to share this gem: [Most of What We Read on the Internet is Written by Insane People (reddit.com)
 ](https://news.ycombinator.com/item?id=18881827)
 
 The key takeaway for me was:
@@ -18,6 +22,8 @@ Time spent talking about your work is time you could be spend getting things don
 
 ### January 9, 2019
 I've been playing around with Jekyll for two days and it is unfortunate that I have to install some Ruby packages like Bundler if I wish to [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-2-install-jekyll-using-bundler) This could all be done within a VM but I also find the workflow and Jekyll itself to be rather cumbersome. So for now I am forced to test changes by pushing directly to production, sometimes without of even previewing my changes. In 2019 there must be some better alternative.
+
+Jan 14: So I did end up trying [openSUSE Leap](https://opensuse-guide.org/) over the weekend and it required over 40GB of hard disk, which I felt was excessive. I switched over to lubuntu and tried [Hyper-V](https://www.cloudwards.net/hyper-v/) but I was never able to create a new VM without running out of memory. Sometimes I miss the [good old days](https://news.ycombinator.com/item?id=18897109).
 
 ### January 7, 2019
 Hello world, today a blog is (re)born! Incidentally GitHub has announced unlimited private repositories for free users so that might have something to do with it! See [Reddit](https://www.reddit.com/r/programming/comments/adjw6g/github_now_gives_free_users_unlimited_private/) and [HN](https://news.ycombinator.com/item?id=18847043). I don't plan to blog so much as dump random snippets and notes on things I've read. Previous incarnations of my website appeared in the form of a [Hatta Wiki](http://test.hatta-wiki.org/) but I suppose the collaborative nature of Github suits this purpose well. Markdown is still supported so the [basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links) will be familiar.
