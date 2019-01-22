@@ -3,6 +3,21 @@ title: One Man and His Machine: Random Musings and Memory Dump
 layout: post
 ---
 
+### January 22, 2019
+
+> The economics of software security: This is why we can't have nice (secure) things.
+
+This strategy tends to fail economically. The tech startups that succeed are usually ones that let their customers do things they would not otherwise be able to do. Usually doing something that nobody has done before is hard enough without considering the corner cases; if it follows a typical 90/10 rule, then doing 100% of the job will take 10x as long as the competitor who's only doing the easiest 90%, and your market will have been snapped up by them long before you can release a product. Customers would rather use a product that works 90% of time than do without a product entirely, at least if it delivers functionality they really want but can't get elsewhere (and if it doesn't, your company is dead anyway).
+
+Once you've got a commanding lead in the marketplace you can go back and hire a bunch of engineers to finish the remaining 10% and make it actually work reliably. That's why solutions like testing & exceptions (in GCed languages) succeed in the market: they can be bolted on retroactively and incrementally make the product more reliably. It's also why solutions like proof-carrying code and ultra-strong (Haskellish) typing fail outside of markets like medical devices & avionics where the product really needs to work 100% at launch. They force you to think through all cases before the program works at all, when customers would be very happy giving you (or a competitor) money for something 80-90% done.
+
+Someday the software market will be completely mature, and we'll know everything that software is good for and exactly what the product should look like and people wouldn't dream of founding new software startups. At that point, there'll be an incentive to go back and rewrite everything with 100% solid and secure methodologies, so that our software has the same reliability that airline travel has now. That point is probably several decades in the future, though, and once it happens programming will not be the potentially extremely lucrative profession it is now. 
+
+> Similar line of argument with a different example. 
+
+MongoDB didn't become a public company through innovations in fundamental distributed database technology or even through good engineering. They became a public company because once Javascript became adequate for building client software, there was a strong incentive to build MVPs using the same data structures from client to server to DB, and once you build an MVP that gets adoption there's a strong incentive not to switch databases.
+That's the sort of shift in the environment that the grandparent is talking about. Fundamental CS tech was arguably better in the 1970s and 1980s, because it moved more slowly and you had time to get the details right. That doesn't matter if you're building say a mobile Ethereum wallet in 2018, because you're building for the user expectations of today, they don't care about data integrity or security as long as it doesn't fail during the period where they're deciding which tech to use, and software that solves the problem (poorly) now is better than software that doesn't exist.
+
 ### January 11, 2019
 
 Wanted to share: [Most of What We Read on the Internet is Written by Insane People (reddit.com)
