@@ -3,6 +3,8 @@ title: One Man and His Machine: Random Musings and Memory Dump
 layout: post
 ---
 
+One Man and His Machine: Random Musings and Memory Dump
+
 ### January 22, 2019
 
 > The economics of software security: This is why we can't have nice (secure) things.
@@ -13,31 +15,34 @@ Once you've got a commanding lead in the marketplace you can go back and hire a 
 
 Someday the software market will be completely mature, and we'll know everything that software is good for and exactly what the product should look like and people wouldn't dream of founding new software startups. At that point, there'll be an incentive to go back and rewrite everything with 100% solid and secure methodologies, so that our software has the same reliability that airline travel has now. That point is probably several decades in the future, though, and once it happens programming will not be the potentially extremely lucrative profession it is now. 
 
-> Similar line of argument with a different example. 
+> Here is a similar line of argument with a different example. 
 
 MongoDB didn't become a public company through innovations in fundamental distributed database technology or even through good engineering. They became a public company because once Javascript became adequate for building client software, there was a strong incentive to build MVPs using the same data structures from client to server to DB, and once you build an MVP that gets adoption there's a strong incentive not to switch databases.
 That's the sort of shift in the environment that the grandparent is talking about. Fundamental CS tech was arguably better in the 1970s and 1980s, because it moved more slowly and you had time to get the details right. That doesn't matter if you're building say a mobile Ethereum wallet in 2018, because you're building for the user expectations of today, they don't care about data integrity or security as long as it doesn't fail during the period where they're deciding which tech to use, and software that solves the problem (poorly) now is better than software that doesn't exist.
 
 ### January 11, 2019
 
-Wanted to share: [Most of What We Read on the Internet is Written by Insane People (reddit.com)
+I wanted to share this interesting article: [Most of What We Read on the Internet is Written by Insane People (reddit.com)
 ](https://news.ycombinator.com/item?id=18881827)
 
-The key takeaway for me was:
+The key takeaway for me was the following:
 > If you consume any content on the Internet, you're mostly consuming content created by people who for some reason spend most of their time and energy creating content on the Internet. And those people clearly differ from the general population in important ways.
 
-The post is worth a read and there are many interesting comments.  
+The post itself is worth a read and there are many interesting comments in the discussion.  
 > When Rome's military went from citizen soldiers to full time specialist professionals, the misalignment of incentives between the specialists and the citizens was the subtle, long term root of many problems. 
 I think this is the case with programmes as a profession, as hacker culture is diluted by more mainstream commercial interests. The easy money in ad-tech has attracted brogrammers as our standards and expectations for privacy and security seem to decrease with each passing year.
 
+Many of my friends are exceedingly optimistic about the potential and possibilities in technology but sometimes I wonder if we are really moving forward but taking two steps back. For example I prefer to remain annonymous and keep private as much as possible. I believe most of us would see the right to ownership of property as inalienable and the right to privacy and security is (arguably) no less important, but this is increasingly being erroded in an age of [surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism)
+
+This unfortunately goes against the zeitgeist in an time where it is popular to [write essays](https://www.linkedin.com/pulse/leaving-microsoft-paul-richardson/) to announce a departure from a job, share what you ate for lunch on Instagram/Facebook/Github and even personal blogs to some extent have become vechicles for self-promotion and marketing/storytelling. 
+
 > This is why I constantly work to become a better storyteller, both for personal and professional reasons. You must promulgate the narrative surrounding yourself and your work or someone else will.
 
-I prefer to remain annonymous and keep private as much as possible. This unfortunately goes against the zeitgeist in an time where it is popular to [write essays](https://www.linkedin.com/pulse/leaving-microsoft-paul-richardson/) to announce a departure from a job, share what you ate for lunch on Instagram/Facebook/Github and even personal blogs to some extent, etc. 
 
-Time spent talking about your work is time you could be spend getting things done. Unfortunately humans absolutely require a narrative surrounding anything with which they consider themselves associated with. It’s vastly superior to that being one provided by you (by human resources, hiring managers) versus one invented for use by those who know you. So here I am, enjoy the story.
+Time spent talking about your work is time you could be spend getting things done. Unfortunately humans absolutely require a narrative surrounding anything with which they consider themselves associated with. It’s vastly superior to that being one provided by you (by human resources, hiring managers) versus one invented for use by those who know you. So here I am writing a blog entry, I hope you enjoy the story.
 
 ### January 9, 2019
-I've been playing around with Jekyll for two days and it is unfortunate that I have to install some Ruby packages like Bundler if I wish to [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-2-install-jekyll-using-bundler) This could all be done within a VM but I also find the workflow and Jekyll itself to be rather cumbersome. So for now I am forced to test changes by pushing directly to production, sometimes without of even previewing my changes. In 2019 there must be some better alternative.
+I've been playing around with Jekyll for two days and it is unfortunate that I have to install some Ruby packages like Bundler if I wish to [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-2-install-jekyll-using-bundler) This could all be done within a VM but I also find the workflow and Jekyll itself to be rather cumbersome. So for now I am forced to test changes by pushing directly to production, sometimes without of even previewing my changes. In 2019 there must be some better alternative!
 
 ### January 7, 2019
 Hello world, today a blog is (re)born! Incidentally GitHub has announced unlimited private repositories for free users so that might have something to do with it! See [Reddit](https://www.reddit.com/r/programming/comments/adjw6g/github_now_gives_free_users_unlimited_private/) and [HN](https://news.ycombinator.com/item?id=18847043). I don't plan to blog so much as dump random snippets and notes on things I've read. Previous incarnations of my website appeared in the form of a [Hatta Wiki](http://test.hatta-wiki.org/) but I suppose the collaborative nature of Github suits this purpose well. Markdown is still supported so the [basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links) will be familiar.
