@@ -3,7 +3,7 @@ title: One Man and His Machine: Random Musings and Memory Dump
 layout: post
 ---
 
-One Man and His Machine: Random Musings and Memory Dump
+## One Man and His Machine: Random Musings and Memory Dump
 
 ### January 22, 2019
 
@@ -47,9 +47,9 @@ I've been playing around with Jekyll for two days and it is unfortunate that I h
 ### January 7, 2019
 Hello world, today a blog is (re)born! Incidentally GitHub has announced unlimited private repositories for free users so that might have something to do with it! See [Reddit](https://www.reddit.com/r/programming/comments/adjw6g/github_now_gives_free_users_unlimited_private/) and [HN](https://news.ycombinator.com/item?id=18847043). I don't plan to blog so much as dump random snippets and notes on things I've read. Previous incarnations of my website appeared in the form of a [Hatta Wiki](http://test.hatta-wiki.org/) but I suppose the collaborative nature of Github suits this purpose well. Markdown is still supported so the [basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links) will be familiar.
 
-["If a tree falls in a forest and no one is around to hear it, does it make a sound?"](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest) I suppose people are curious regarding my relative silence and a "narrative" is required. That will be for another post. For now I will leave you with a question and answer. [Ask HN: How to found a company as a single founder?](https://news.ycombinator.com/item?id=18855704) and an answer [Seven tough lessons from ten years in bootstrapped business](https://news.ycombinator.com/item?id=18582553).
+["If a tree falls in a forest and no one is around to hear it, does it make a sound?"](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest) I suppose people are curious regarding my relative silence and a "narrative" is required but that will be for another post. For now I will leave you with a question and answer. [Ask HN: How to found a company as a single founder?](https://news.ycombinator.com/item?id=18855704) and [Seven tough lessons from ten years in bootstrapped business](https://news.ycombinator.com/item?id=18582553). They are long reads but dig in if you really want the answer to your question.
 
-These days my main interest is in cybersecurity and that will be my focus of my writings. The old saying goes: "Premature optimization is the root of all evil" and I share similar sentiments regarding complexity. Hardware, software, platforms, and ecosystems are often unnecessarily complex and many of our security, privacy, and abuse problems stem from that. So a simple, static website hosted on [Github Pages](https://vinc456.github.io/) should suit my needs and my hope is there is little to no maintenance. The only constant in technology is relentless change but I'm sure Github Pages will stand the test of time..... ;) 
+These days my main interest is in cybersecurity and that will be my focus of my writings in this blog. They say: "Premature optimization is the root of all evil" and I share similar sentiments regarding complexity about blogging platforms. Hardware, software, platforms, and ecosystems are often unnecessarily complex and many of our security, privacy, and abuse problems stem from that. So a simple, static website hosted on [Github Pages](https://vinc456.github.io/) should suit my needs and my hope is there will be little to no maintenance so I can focus on writing. My hope is that this be the ;ast blogging platform I will ever need to setup/learn/maintain but the only thing one can bet on in technology is relentless change....  
 
 ###### Random Readings
 
