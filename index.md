@@ -1,5 +1,5 @@
 ---
-title: One Man and His Machine: Random Musings and Memory Dump
+title: Test title
 layout: post
 ---
 
@@ -19,6 +19,10 @@ Someday the software market will be completely mature, and we'll know everything
 
 MongoDB didn't become a public company through innovations in fundamental distributed database technology or even through good engineering. They became a public company because once Javascript became adequate for building client software, there was a strong incentive to build MVPs using the same data structures from client to server to DB, and once you build an MVP that gets adoption there's a strong incentive not to switch databases.
 That's the sort of shift in the environment that the grandparent is talking about. Fundamental CS tech was arguably better in the 1970s and 1980s, because it moved more slowly and you had time to get the details right. That doesn't matter if you're building say a mobile Ethereum wallet in 2018, because you're building for the user expectations of today, they don't care about data integrity or security as long as it doesn't fail during the period where they're deciding which tech to use, and software that solves the problem (poorly) now is better than software that doesn't exist.
+
+Feb 8: For consumers there exist several fine VPN solutions such as AirVPN, PIA, [PrivateTunnel](https://www.privatetunnel.com/), Mullvad, ProtonVPN and Windscribe which offer reasonable service at reasonable price, if you don't want to go to the trouble of rolling your own. (because maintenance and upkeep!) I also recommend checking out [Streisand](https://github.com/StreisandEffect/streisand) which served as the foundation of Canadian Shield VPN, which is presently defunct in this highly competitive and increasingly commoditized arena where I would expend my (at this point) limited personal resources trying to play catch up with no meaningful competitive advantage for most consumers. 
+
+The business model is proven and is profitable, scales well, and requires very little starting capital (to the point where you can bootstrap) which is why everyone is doing it. SurfEasy, TunnelBear and Windscribe are three Canadian firms who have grown with the market and the former two were recently acquired by [Symantec](https://investor.symantec.com/About/Investors/press-releases/press-release-details/2017/Symantec-Announces-Acquisition-of-SurfEasy-Inc/default.aspx) and [McAfee](https://www.tunnelbear.com/blog/tunnelbear_joins_mcafee/) respectively.
 
 ### January 11, 2019
 
