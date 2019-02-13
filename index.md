@@ -49,7 +49,7 @@ This unfortunately goes against the zeitgeist in an time where it is popular to 
 > This is why I constantly work to become a better storyteller, both for personal and professional reasons. You must promulgate the narrative surrounding yourself and your work or someone else will.
 
 
-Time spent talking about your work is time you could be spend getting things done. Unfortunately humans absolutely require a narrative surrounding anything with which they consider themselves associated with. It’s vastly superior to that being one provided by you (by human resources, hiring managers) versus one invented for use by those who know you. So here I am writing a blog entry, I hope you enjoy the story.
+Time spent talking about your work is time you could be spend getting things done. Unfortunately humans absolutely require a [narrative](https://youtu.be/Ap2uWsJV25w) surrounding anything with which they consider themselves associated with. It’s vastly superior to that being one provided by you (by human resources, hiring managers) versus one invented for use by those who know you. So here I am writing a blog entry, I hope you enjoy the story.
 
 ### January 9, 2019
 I've been playing around with Jekyll for two days and it is unfortunate that I have to install some Ruby packages like Bundler if I wish to [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-2-install-jekyll-using-bundler) This could all be done within a VM but I also find the workflow and Jekyll itself to be rather cumbersome. So for now I am forced to test changes by pushing directly to production, sometimes without of even previewing my changes. In 2019 there must be some better alternative!
