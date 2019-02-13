@@ -40,7 +40,7 @@ The key takeaway for me was the following:
 
 The post itself is worth a read and there are many interesting comments in the discussion.  
 > When Rome's military went from citizen soldiers to full time specialist professionals, the misalignment of incentives between the specialists and the citizens was the subtle, long term root of many problems. 
-I think this is the case with programmes as a profession, as hacker culture is diluted by more mainstream commercial interests. The easy money in ad-tech has attracted brogrammers as our standards and expectations for privacy and security seem to decrease with each passing year.
+I think this is the [case with programmers as a profession](https://qr.ae/TUyeJy), as hacker culture is diluted by more mainstream commercial interests. The easy money in ad-tech has attracted brogrammers as our standards and expectations for privacy and security seem to decrease with each passing year.
 
 Many of my friends are exceedingly optimistic about the potential and possibilities in technology but sometimes I wonder if we are really moving forward but taking two steps back. For example I prefer to remain annonymous and keep private as much as possible. I believe most of us would see the right to ownership of property as inalienable and the right to privacy and security is (arguably) no less important, but this is increasingly being erroded in an age of [surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism)
 
