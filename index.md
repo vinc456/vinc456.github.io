@@ -1,11 +1,15 @@
 ---
-title: Test title
+title: Software and Security
 layout: post
 ---
 
 ## One Man and His Machine: Random Musings and Memory Dump
 
 ### January 22, 2019
+
+Whether or not a company / person actually has values is completely different from what they say about having values. If you truly have values, then your actions are aligned with, consistent with, and demonstrate your stated values. It’s easy to talk about having values. Usually the pretense is dropped when the chance to advance self interest like money comes up. 
+
+Companies claim to [Take Your Privacy and Security Seriously](https://news.ycombinator.com/item?id=19215238) but what they really care about having to explain to their customers that their data was stolen. But can you really blame them? Individually we don't care enough about security to pay for it, so there is no economic incentive for them to invest into securing and building things well. Increasingly we need to put money our mouths are because until then, we will pay for it one way or another, with data breaches like Equifax or not so isolated [incident](https://news.ycombinator.com/item?id=19215276) in Sweden.  
 
 > The economics of software security: This is why we can't have nice (secure) things.
 
