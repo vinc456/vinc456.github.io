@@ -36,7 +36,7 @@ These days my main interest is in cybersecurity and that will be my focus of my 
 
 [The State Of Software Security In 2019](https://www.reddit.com/r/security/comments/adkvu1/the_state_of_software_security_in_2019_and_what/)
 
-Interview with Mark Russinovich-the future of Sysinternals 3/5. [Sad state of security, as an intractable problem](https://youtu.be/3-kjale0tDk)
+Interview with Mark Russinovich-the future of Sysinternals 3/5. [Sad state of security, as an intractable problem](https://youtu.be/3-kjale0tDk) [U.S. has almost 500,000 job openings in cybersecurity](https://www.reddit.com/r/programming/comments/nj4kvv/us_has_almost_500000_job_openings_in_cybersecurity/)
 
 > Dependency slurping systems like NPM, CPAN, go get, and so on continue to freak me out. They might potentially be more dangerous than manual dependency management, despite the huge risks of that practice, precisely because they make it ‘easy’ to grow your project’s dependency graph — and hence the number of individuals and organizations that you implicitly trust. (And their trustworthiness can suddenly change for the worse.) When there are significant gaps in a language’s standard library, third-party developers will eagerly fill those gaps with new dependencies for you to (not always knowingly) inherit. There is an effort underway to fill gaps in JavaScript’s standard library, which I strongly support for this reason.
 [Dependency resolution is a good application of topological sorting.](https://www.quora.com/What-is-topological-sorting
